@@ -1,16 +1,13 @@
-### Hi there 👋
+###Bem vindo ao meu perfil!  🖤
 
-<!--
-**Nasen7072/Nasen7072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e kauâ vitor de olivera dos santos.
 
-Here are some ideas to get you started:
+-Estou estudando na plataforma alura.
+-Estou me desenvolvendo nas linguagens java script, html e css.
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###você pode entrar em contato comigo! 📧
+
+ oliveira.santos.kaua@escola.pr.gov.br
+
+ ![](https://media.tenor.com/p51_dkd5c1oAAAAd/werewolf.gif)
